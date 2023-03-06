@@ -6,3 +6,4 @@ haojiahua
 bug已经修改完成
 bug2已经修改完成
 
+bug3也已经修改完成
